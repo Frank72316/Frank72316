@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi there, I'm Frank Zhang 👋
 
-<!--
-**Frank72316/Frank72316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about **Machine Learning** and **Game Development**. Currently diving deep into **Python** and **C++**, constantly learning and refining my skills in various programming concepts and technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <!-- 并排显示：通过 height 属性控制高度一致，通过 &nbsp; 增加间距 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Frank72316&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=default&hide_border=true" alt="Top Langs" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Frank72316&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  </a>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-F37626.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📫 Get in Touch
+
+- **Email**: [abcde007abcde@qq.com](mailto:abcde007abcde@qq.com)
+
+
+<!-- 访客统计 -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Frank72316&label=Profile%20Views)
