@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank Zhang 👋
 
-I'm a developer passionate about **Machine Learning** and **Game Development**. Currently diving deep into **Python** and **C++**, constantly learning and refining my skills in various programming concepts and technologies.
+I'm currently diving deep into **Python** and **C++**, constantly learning and refining my skills in various programming concepts and technologies.
 
 ---
 
