@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank Zhang 👋
 
-I'm currently diving deep into **Python** and **C++**, constantly learning and refining my skills in various programming concepts and technologies.
+I'm currently diving deep into **deep learning** and **C++**, constantly learning and refining my skills in various programming concepts and technologies.
 
 ---
 
